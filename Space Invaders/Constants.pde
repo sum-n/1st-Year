@@ -1,0 +1,12 @@
+final int SCREENX = 500;
+final int SCREENY = 400;
+final int GAP = 20;
+final int ALIEN_ALIVE = 0;
+final int ALIEN_DEAD = 6;
+final int FORWARD = 0;
+final int BACKWARD = 1;
+final int PLAYERHEIGHT = 4;
+final int PLAYERWIDTH = 40;
+final int MARGIN = 5;
+final int BULLETHEIGHT = 15;
+final int BULLETWIDTH = 5;
